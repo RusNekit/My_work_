@@ -1,6 +1,6 @@
 name = "Nikita"
 print(name)
-age = 30
+age = 32
 print(age)
 age = 25
 print(age)
