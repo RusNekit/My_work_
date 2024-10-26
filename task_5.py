@@ -1,12 +1,3 @@
-# food = ['appple', 'coconat', 'banana']
-# print(food[2])
-# food.append('big')
-# food.extend('good')
-# print(food[1:11:2])
-# food.remove('coconat')
-# print(len(food))
-from math import trunc
-
 immutable_var = (4, 'good boy', True)
 print(immutable_var)
 
