@@ -10,4 +10,3 @@ def get_multiplied_digits(number):
 
 result007 = get_multiplied_digits(233332032)
 print(result007)
-
