@@ -1,3 +1,11 @@
+import fake_math
+from fake_math import divide as divfake
+from tr
+
+def divide(first, second):
+    return result
+
+
 result1 = fake_divide(69, 3)
 
 result2 = fake_divide(3, 0)
