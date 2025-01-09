@@ -84,7 +84,6 @@ class UrTube:
         else:
             print(f"Видео с таким названием не найдено")
 
-# Пример использования
 if __name__ == "__main__":
     ur = UrTube()
     v1 = Video('Лучший язык программирования 2024 года', 9, adult_mode=False)
