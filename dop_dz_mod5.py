@@ -1,4 +1,3 @@
-import hashlib
 import time
 
 class User:
